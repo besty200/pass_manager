@@ -1,0 +1,18 @@
+# Зашифрованная база паролей и ключ — НЕ хранить в репозитории
+.key
+password.db
+
+# Виртуальное окружение
+.venv/
+venv/
+.env
+
+# Python кэш
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# OS
+.DS_Store
+Thumbs.db
